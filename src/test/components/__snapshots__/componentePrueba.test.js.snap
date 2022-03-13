@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en Componente Prueba Validar render en componente de prueba 1`] = `
+<div>
+  <p>
+    'hola' + 
+    Saludos :D 
+  </p>
+</div>
+`;
